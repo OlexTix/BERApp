@@ -1,0 +1,39 @@
+T: Mon May 23 18:35:05 2022M: Log file successfully opened
+T: Mon May 23 18:35:05 2022M: Processing test files
+T: Mon May 23 18:35:05 2022M: Calculating BER...
+T: Mon May 23 18:35:05 2022M: BerApp has finished its work
+T: Mon May 23 18:35:05 2022M: Presenting the BERApp results: 
+BER (Bit Error Rate): 0
+Number of bits: 800
+Error bits: 0
+Total calculation time: 0.001 sec 
+
+T: Mon May 23 18:35:05 2022M: Log file closed
+T: Mon May 23 18:36:06 2022M: Log file successfully opened
+T: Mon May 23 18:36:06 2022M: No filepath specified
+T: Mon May 23 18:36:06 2022M: Creating the test .bin files
+T: Mon May 23 18:38:19 2022M: Test files are being prepared
+T: Mon May 23 18:38:19 2022M: Insert correct arguments and run the BERApp once again. Tip: ./BerApp.exe test1_file1.bin test1_file2.bin
+T: Mon May 23 18:38:19 2022M: Log file closed
+T: Mon May 23 18:42:59 2022M: Log file successfully opened
+T: Mon May 23 18:42:59 2022M: Processing test files
+T: Mon May 23 18:42:59 2022M: Calculating BER...
+T: Mon May 23 18:42:59 2022M: BerApp has finished its work
+T: Mon May 23 18:42:59 2022M: Presenting the BERApp results: 
+BER (Bit Error Rate): 0.25
+Number of bits: 800
+Error bits: 200
+Total calculation time: 0 sec 
+
+T: Mon May 23 18:42:59 2022M: Log file closed
+T: Mon May 23 18:43:09 2022M: Log file successfully opened
+T: Mon May 23 18:43:09 2022M: Processing test files
+T: Mon May 23 18:43:09 2022M: Calculating BER...
+T: Mon May 23 18:48:58 2022M: BerApp has finished its work
+T: Mon May 23 18:48:58 2022M: Presenting the BERApp results: 
+BER (Bit Error Rate): 0.25
+Number of bits: 3.2e+09
+Error bits: 8e+08
+Total calculation time: 349.012 sec 
+
+T: Mon May 23 18:48:58 2022M: Log file closed
