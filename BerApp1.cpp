@@ -24,7 +24,7 @@ int main(int argc, char* argv[])
 	string filepath2; //path to File 2
 	berResults results;
 
-	openLogFile("log.log"); //create the log file by the name of "log.log"
+	openLogFile("log.txt"); //create the log file by the name of "log.txt"
 	if (argc != 3) //check if there are exactly 3 arguments- name, count, value
 	{
 		saveLogFile("No filepath specified");
